@@ -57,6 +57,7 @@ button {
 }
 #player {
   position: absolute;
+  font-size: 50px;
   bottom: 90px;
   right: 60px;
 }
